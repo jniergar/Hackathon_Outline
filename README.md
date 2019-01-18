@@ -30,7 +30,7 @@ Feel free to fork this document and update it with information from which you fe
          cd
          ```
    - [Visual Studio Code](https://code.visualstudio.com/download)
-     - This is our recommended code editor. It is light weight and versatile with many extensions that are very useful for us.
+     - This is our recommended code editor. It is lightweight and versatile with many extensions that are very useful for us.
      - Install the following extensions (open the extension pane with Ctrl+Shift+x)
        - Docker
        - GitLens
@@ -50,8 +50,10 @@ Feel free to fork this document and update it with information from which you fe
            - This will warn you when you are writing poorly formatted code.  It might take some time to figure out what you are doing wrong but proper style is an important factor in the hackathon.
            - You will also have to install some of these but VS code will prompt you to do this when you save a python file.
    - [Docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+     - You may need to create an account to download Docker in browser
      - You need to give your USER account docker permission `sudo usermod -a -G docker $USER`
    - [docker-compse](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+     - (Mac users don't need to install Docker Compose separately)
    - Restart Ubuntu
 
 3. Setup Github Repository and Access
