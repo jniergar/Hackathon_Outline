@@ -1,6 +1,5 @@
-# Hackathon Outline
-An outline of the University of Guelph Bioinformatics Hackathon!
-Feel free to fork this document and update it with information you feel others would benefit from, then perform a pull request and we will review and merge! [Here](https://help.github.com/articles/basic-writing-and-formatting-syntax/) is a guide to formatting in this document.
+# University of Guelph Bioinformatics Hackathon Outline
+Feel free to fork this document and update it with information from which you feel others would benefit, then perform a pull request and we will review and merge. [Here](https://help.github.com/articles/basic-writing-and-formatting-syntax/) is a guide to formatting in this document.
 
 ## Environment Setup
 1. Install Ubuntu
