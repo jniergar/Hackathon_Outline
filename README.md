@@ -68,8 +68,7 @@ Feel free to fork this document and update it with information from which you fe
        - VS Code cannot handle SSH keys that require passphrases so do not use one, leave it blank
        - If on Ubuntu you can setup your .bashrc to load the ssh-agent when a terminal is opened and add your ssh key to it
          - ```
-           echo "eval `ssh-agent`
-           ssh-add ~/.ssh/id_rsa" >> ~/.bashrc
+           echo "eval `ssh-agent` ssh-add ~/.ssh/id_rsa" >> ~/.bashrc
            ```
            - Your private key file may have a different name than id_rsa, make sure to use the correct one
     - VS Code integrates with Git and Github allowing you to perform all Git actions using the source control pane (Ctrl+Shift+G) and even resolve pull requests
